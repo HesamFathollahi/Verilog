@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Sat Mar 27 14:40:08 2021
+# Process ID: 13344
+# Current directory: C:/Users/hesam/project_1/project_1.runs/synth_1
+# Command line: vivado.exe -log __Z11start_pointv_int.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source __Z11start_pointv_int.tcl
+# Log file: C:/Users/hesam/project_1/project_1.runs/synth_1/__Z11start_pointv_int.vds
+# Journal file: C:/Users/hesam/project_1/project_1.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source __Z11start_pointv_int.tcl -notrace
